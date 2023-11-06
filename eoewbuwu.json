@@ -1,0 +1,33 @@
+{
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": true,
+        "HideIconAfter": 120,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+ "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "INFO",
+          "title1": "CONFIG AND RULES",
+          "text1": "Working on it, join discord to see news",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "DISCORD",
+          "url": "https://discord.gg/e3rPQUdJ7"
+        }
+      }
+    ]
+}
